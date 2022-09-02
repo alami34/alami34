@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alami34
 - 👀 I’m interested in ... blockchain
 - 🌱 I’m currently learning ...paython 
-- 💞️ I’m looking to collaborate on ... current maybe next nano science big step ! 
+- 💞️ I’m looking to collaborate on ... current maybe next nano science's big step ! 
 - 📫 How to reach me ... there .
 
 <!---
